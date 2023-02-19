@@ -1,0 +1,419 @@
+*{
+text-align:center;
+}
+
+    .new-pro a {
+        ;
+        position: relative;
+        top: 14px
+    }
+
+
+    .ex {
+        margin: 15px auto;
+    }
+
+
+
+
+    .new-pro img {
+        width: 70px
+    }
+
+
+
+
+    .onle-ex-div {
+        padding: 60px 0px;
+    }
+
+
+
+
+    .onle-ex-div {
+        padding: 4px 0px;
+        margin: 0 auto
+    }
+
+
+    .new-tap a {
+        color: #fff;
+        text-decoration: none;
+    }
+
+
+
+
+
+
+
+
+    .footer-onel-new {
+        padding: 0px;
+        position: relative;
+        top: 0;
+        right: -50px;
+        padding-top: 0 !important;
+    }
+
+    .social-h5 {}
+
+    .social-icon a:hover {
+        color: #fff !important;
+    }
+
+    .social-icon .facebook {
+        background: transparent;
+        margin: 0 0px
+    }
+
+    .social-icon .twitter {
+        background: transparent;
+        margin: 0 0px
+    }
+
+    .social-icon .instagram {
+        background: transparent;
+        margin: 0 0px
+    }
+
+    .social-icon .linkedin {
+        background: transparent;
+        margin: 0 0px
+    }
+
+    .social-icon .google {
+        background: transparent;
+        margin: 0 0px
+    }
+
+
+
+
+
+
+
+
+    .down {
+        font-size: 16px;
+        margin: -19px 0 0 0;
+        line-height: 30px;
+        font-family: 'SST Arabic';
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    .odd i {
+        position: relative;
+        top: 25px
+    }
+
+    .r4rj p {
+        font-size: 17px;
+        font-weight: 700;
+        color: #5153a6;
+        position: relative;
+        top: 60px
+    }
+
+
+    .onle-div {
+        margin: 0 0 0 0
+    }
+
+
+
+    .fogj {
+        font-size: 16px;
+        font-weight: 600;
+        color: #5153a6;
+    }
+
+
+
+    .new-word p {
+        color: #555;
+        font-size: 14px;
+
+    }
+
+    .price-value {
+        color: #555;
+        font-size: 14px;
+    }
+
+
+
+    .space {
+        padding: 20px;
+    }
+
+
+
+
+    .site-heading h2 {
+        font-size: 24px;
+        font-weight: 540;
+        color: #5153a6;
+        line-height: 36px;
+        padding: 0 0 20px 0;
+
+    }
+
+
+    .onle-way-h2 h2 {
+        font-size: 30px;
+        color: #444;
+        display: inline-block;
+        font-weight: 600;
+        position: relative;
+        font-family: 'SST Arabic';
+        font-weight: normal;
+        font-style: normal;
+
+    }
+
+
+    .onle-way-22 {
+        position: relative;
+        top: -30px
+    }
+
+    .hero-area-bg {
+        ;
+        padding: 0;
+        margin: -50px 0 0 0
+    }
+
+    .step-1-next {
+        position: relative;
+        top: -40px
+    }
+
+    .step-1-next2 {
+        position: relative;
+        top: -130px;
+        right: 5px
+    }
+
+    .start-2step {
+        padding: 20px
+    }
+
+
+    .app-store h3 {
+        margin: 0 auto;
+        padding: 10px;
+        position: relative;
+        right: 0
+    }
+
+    .ex-app img {
+        position: relative;
+        right: 0px;
+        width: 70%;
+        top: 0px;
+        margin: 0 auto;
+    }
+
+    .dkdfif {
+        margin: auto;
+        position: relative;
+        right: 0;
+        top: -40px
+    }
+
+    .rorof {
+        margin: 0 auto;
+        position: relative;
+        right: 0;
+    }
+
+
+
+
+    .odd i {
+        position: relative;
+        top: 25px
+    }
+
+    .r4rj p {
+        font-size: 17px;
+        font-weight: 700;
+        color: #5153a6;
+        position: relative;
+        top: 60px
+    }
+
+
+    .onle-div {
+        margin: 0 0 0 0
+    }
+
+
+
+    .fogj {
+        font-size: 16px;
+        font-weight: 600;
+        color: #5153a6;
+    }
+
+
+
+    .new-word p {
+        color: #555;
+        font-size: 14px;
+
+    }
+
+    .price-value {
+        color: #555;
+        font-size: 14px;
+    }
+
+
+
+    .space {
+        padding: 20px;
+    }
+
+
+
+
+    .site-heading h2 {
+        font-size: 24px;
+        font-weight: 540;
+        color: #5153a6;
+        line-height: 36px;
+        padding: 0 0 20px 0
+    }
+
+
+    .onle-way-h2 h2 {
+        font-size: 35px;
+        color: #444;
+        display: inline-block;
+        font-weight: 600;
+        position: relative;
+        font-family: 'SST Arabic';
+        font-weight: normal;
+        font-style: normal;
+
+    }
+
+
+    .onle-way-22 {
+        position: relative;
+        top: -30px
+    }
+
+    .hero-area-bg {
+        ;
+        padding: 0;
+        margin: -50px 0 0 0
+    }
+
+    .step-1-next {
+        position: relative;
+        top: -40px
+    }
+
+    .step-1-next2 {
+        position: relative;
+        top: -130px;
+        right: 5px
+    }
+
+    .start-2step {
+        padding: 20px
+    }
+
+    .sroo {
+        position: relative;
+        top: 50px;
+        padding: 0;
+        margin: 0
+    }
+
+    .header-button {
+        position: relative;
+        top: 30px;
+    }
+
+
+    .setup-content .stepwizard-step .header-button {
+        position: relative;
+        top: 45px;
+    }
+
+    .respon1 h2 {
+        margin-top: 20px !important;
+    }
+
+    .setup-content [class*="col"] {
+        padding: 0 5px;
+    }
+
+
+
+    #home-div1316 {
+        background: linear-gradient(to left, rgba(111, 113, 205, 0.95) 0%, rgba(70, 72, 159, 0.95) 90%);
+        box-shadow: 0px 2px 10px 0px rgba(198, 198, 198, 0.3);
+        background-repeat: no-repeat;
+        background-position: 100% 100%;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        padding: 0;
+        height: 100%;
+        left: 0;
+        top: 0;
+        width: 100%;
+        z-index: 0;
+    }
+
+    .home-overlay-div1316 {
+        background-color: rgba(111, 113, 205, 0.92);
+        /*background-image: url(../img/back_star.png);*/
+        background-repeat: repeat;
+        padding: 70px 25px;
+        height: 100%;
+        width: 100%;
+        z-index: 0;
+        background-position: 20% 27%;
+    }
+
+    .home-overlay-div1316 h2 {
+        color: #fff;
+        font-size: 26px;
+        padding: 0;
+        margin: 0;
+        line-height: 36px
+    }
+
+    /*
+    .trr
+    {
+        position: relative;top: 125px;
+    }
+*/
+    .so {
+        position: relative;
+        top: 25px
+    }
+
+
+    .onle-pricing {
+        position: relative;
+        right: 0
+    }
+
+    .navbar-brand img {
+        width: 150px;
+        margin: 5px 0px 0px 0;
+        position: relative;
+        right: -10px;
+        ;
+        top: -25px
+    }
